@@ -1,0 +1,38 @@
+#navbar > div {
+  background-color: #262d48;
+  color: white;
+}
+
+.p-2 {
+  color: white;
+}
+
+.jumbotron {
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.mr-md-auto {
+  margin-left: 60px !important;
+}
+.mr-md-auto h5 {
+  font-size: 200% !important;
+}
+
+#logo {
+  width: 50%;
+}
+
+.btn {
+  border: solid 1px;
+  border-color: #a6dff6;
+  background-color: #a6dff6;
+  color: #262d48;
+}
+.display-4 {
+  padding-left: 40px;
+}
+.lead {
+  padding-left: 40px;
+}
+/*flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm*/
